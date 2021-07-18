@@ -10,7 +10,7 @@ The code on both Pytorch and MindSpore will be released soon.
 
 + Python 3.7.5
 + MindSpore 1.2.1
-+ CUDA 10.1s
++ CUDA 10.1
 
 ### Quality Assessment for Enhanced Low-light Image
 
